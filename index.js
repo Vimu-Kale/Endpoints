@@ -3,7 +3,8 @@ const PORT = 8000;
 
 
 
-//Temprory Database Array of Objects
+//TEMPRORY DATABASE ARRAY OF OBJECT
+
 const database = {
     users:[
         {
